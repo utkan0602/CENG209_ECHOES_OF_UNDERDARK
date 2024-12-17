@@ -1,5 +1,14 @@
 # Dungeon Adventure Game
 
+## TO BUILD CODE: 
+Do not forget to make changes for CMakeList. It is adjusted for macOS operating systems. To build it:
+
+- mkdir build
+- cd build
+- cmake ..
+- make
+- ./Echoes_Of_Underdark
+  
 ## Gameplay
 Dungeon Adventure is a text-based role-playing game where players explore a dungeon filled with monsters, treasures, traps, and NPCs. The game involves strategic decision-making, turn-based battles, and resource management to survive and achieve victory.
 
