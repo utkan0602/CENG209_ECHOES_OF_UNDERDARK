@@ -1,0 +1,8 @@
+
+Treasure : Health Position
+
+- Increase health bar by 50 if you use it. 
+(If you are at maximumu health it will increase your maximum health too)
+
+Health Contribution = 50 
+Attack Contribution = 0

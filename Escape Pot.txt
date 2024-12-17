@@ -1,0 +1,8 @@
+
+Treasure : Escape Pot
+
+- If you use this pot you can leave immediately any room.
+(DO NOT FORGET YOU HAVE TO USE BEFORE BATTLE !)
+
+Health Contribution = 0 
+Attack Contribution = 0

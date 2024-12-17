@@ -1,0 +1,39 @@
+cmake_minimum_required(VERSION 3.29)
+project(Echoes_Of_Underdark C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Echoes_Of_Underdark main.c
+        "Header Files/WelcomeScreen.h"
+        "Source Files/WelcomeScreen.c"
+        "Header Files/Game.h"
+        "Source Files/Game.c"
+        "Header Files/Characters.h"
+        "Source Files/Characters.c"
+        "Header Files/Wizard.h"
+        "Source Files/Wizard.c"
+        "Header Files/Goblin.h"
+        "Header Files/Warrior.h"
+        "Source Files/Goblin.c"
+        "Source Files/Warrior.c"
+        "Header Files/GameMessages.h"
+        "Source Files/GameMessages.c"
+        "Source Files/TextHeaderCreator.c"
+        "Header Files/TextHeaderCreator.h"
+        "Source Files/CharacterChoosing.c"
+        "Header Files/CharacterChoosing.h"
+        "Header Files/DungeonMap.h"
+        "Source Files/DungeonMap.c"
+        "Header Files/Monsters.h"
+        "Header Files/Treasure.h"
+        "Header Files/Trap.h"
+        "Header Files/Rooms.h"
+        "Header Files/NPC.h"
+        "Source Files/Monsters.c"
+        "Source Files/NPC.c"
+        "Source Files/Treasure.c"
+        "Source Files/Rooms.c"
+        "Source Files/Trap.c"
+        "Header Files/SaveManagement.h"
+        "Source Files/SaveManagement.c"
+)

@@ -1,0 +1,7 @@
+
+Treasure : Mini Boss Award
+
+- The game wants to reward you for killing a mini boss. You will gain good health and attack power!
+
+Health Contribution = 0 
+Attack Contribution = 0

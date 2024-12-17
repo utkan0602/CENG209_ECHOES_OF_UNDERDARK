@@ -1,0 +1,7 @@
+
+Treasure : Underground of Bad Fortune  
+
+- This treasure says it will give you health, but I'm not so sure...
+
+Health Contribution = 0 
+Attack Contribution = 0

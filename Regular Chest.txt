@@ -1,0 +1,7 @@
+
+Treasure : Regular Chest
+
+- Just a simple chest.
+
+Health Contribution = 5
+Attack Contribution = 5
